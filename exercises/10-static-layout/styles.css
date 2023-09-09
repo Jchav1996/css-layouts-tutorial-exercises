@@ -1,5 +1,17 @@
 /* your code here */
-
+.secondWrapper {
+	display: flex;
+}
+section {
+	width: 80%;
+	margin-left: 10px;
+}
+.wrapper {
+	padding: 0px 10px;
+}
+nav {
+	width: 20%;
+}
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
 **************************************/
